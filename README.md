@@ -1,10 +1,7 @@
-<h1 align="center">Hi 👋, I'm Abreham Kokobe</h1>
-
-<h3 align="center">Computer Science Student | Junior Front-End Developer | Exploring Cybersecurity</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Junior+Front-End+Developer;Future+Cybersecurity+Specialist;GitHub+Enthusiast&center=true&width=500&height=50">
-</p>
+<h2 align="center">Hi 👋, I'm Abreham Kokobe</h2>
+<h2>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+GitHub+Profile;I'm+Abreham+Kokobe;Junior+Front-End+Developer&center=true&width=500&height=50">
+</h2>
 
 ---
 
