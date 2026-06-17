@@ -9,43 +9,51 @@
 
 - 🎓 Computer Science Student
 - 💻 Junior Front-End Developer
-- 🌱 Currently learning Git, GitHub, Java, HTML, CSS and JavaScript and React
-- 🔐 Exploring Cybersecurity for future specialization
+- 🌱 Currently learning Git, GitHub, JavaScript, React and other things 
 - 🚀 Building real-world projects and improving problem-solving skills
 - 📚 Passionate about continuous learning and technology
 
 ---
 
-## 🌐 Connect With Me
-
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/abk_kok)
-
-[![Telegram](https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/Abreham_Kokobe)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abreham-kok)
-
----
-
 ## 🛠 Languages and Tools
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,java,git,github,vscode" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Abk-kok&show_icons=true)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abkkokobe&show_icons=true&theme=tokyonight" />
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abkkokobe&layout=compact&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abk-kok&layout=compact)
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=abkkokobe&theme=tokyonight" />
+</p>
 
 ---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abreham-kok">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="60" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.instagram.com/abk_kok">
+    <img src="https://skillicons.dev/icons?i=instagram" height="60" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:abkkokpay@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="60" />
+  </a>
+</p>
+
 
 ## 🔥 GitHub Streak
 
