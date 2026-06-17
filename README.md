@@ -1,7 +1,9 @@
 <h2 align="center">Hi 👋, I'm Abreham Kokobe</h2>
-<h2>
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+GitHub+Profile;I'm+Abreham+Kokobe;Junior+Front-End+Developer&center=true&width=500&height=50">
-</h2>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+GitHub+Profile;Junior+Front-End+Developer;Engineering+Student;Always+Learning+New+Things&center=true&width=600&height=100">
+</p>
 
 ---
 
@@ -26,12 +28,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abkkokobe&show_icons=true&theme=tokyonight" />
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abkkokobe&layout=compact&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abk-kok&show_icons=true&theme=tokyonight" />
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abk-kok&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=abkkokobe&theme=tokyonight" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Abk-kok&theme=tokyonight" />
 </p>
 
 ---
